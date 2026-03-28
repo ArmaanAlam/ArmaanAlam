@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Armaan Alam 
-🎯 **Machine Learning | Deep Learning | NLP | MLOps**
+🎯 **Machine Learning | Deep Learning**
 
 <!--
 **ArmaanAlam/ArmaanAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
