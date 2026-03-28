@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 - 🔢 **DigitVision:** TensorFlow-based digit recognition Android app  
 - 📚 **Smart Library System:** Full CRUD web app for library management  
 
-👉 Explore more: [**My GitHub Projects**]([https://github.com/armaan-alam?tab=repositories](https://github.com/ArmaanAlam?tab=repositories))
+👉 Explore more: [**My GitHub Projects**](https://github.com/ArmaanAlam?tab=repositories)
 
 ---
 
