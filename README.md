@@ -26,11 +26,7 @@ Here are some ideas to get you started:
 🌱 Currently exploring ways to connect **theory with practical implementation** to create automation that truly adds value.  
 
 ---
-<p align="center">
-  <a href="https://ray.so/ilUK2Vl">
-    <img src="assets/developer-profile.png" width="850" alt="Developer Profile">
-  </a>
-</p>
+
 
 ## 🧰 Tech Stack  
 
