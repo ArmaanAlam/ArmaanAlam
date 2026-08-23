@@ -34,10 +34,6 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-### 🧠 AI/ML & GenAI
-- **Core AI:** Machine Learning, Deep Learning, Neural Networks (CNN, RNN, LSTM, Transformer)
-- **Model Ops:** Model Training, Optimization, Hyperparameter Tuning
-- **Generative AI:** LLMs, RAG, Vector Databases (Chroma DB, FAISS, Pinecone)
 
 ### 📦 Frameworks & Libraries
 <p align="left">
@@ -64,19 +60,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-FFD21E?style=for-the-badge&logoColor=000" alt="Hugging Face" />
 </p>
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmaanAlam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Armaan's GitHub Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmaanAlam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
 
 ---
 
