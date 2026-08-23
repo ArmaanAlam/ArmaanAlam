@@ -21,7 +21,7 @@
 * 🚀 I'm currently working on building scalable web applications and exploring advanced AI features.
 * 🧠 I'm learning more about full-stack development, cloud architectures, and system design.
 * 💬 Ask me about **JavaScript, Python, React, and Frontend Architectures**.
-* 📫 How to reach me: **your-email@example.com** *(update this)*
+* 📫 How to reach me: **armaan.n.alam@gmail.com** *(update this)*
 * ⚡ Fun fact: I love automating repetitive tasks to make life easier!
 
 ## 🛠️ Tech Stack
