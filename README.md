@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ArmaanAlam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://linkedin.com/in/armaanalam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:armaan.n.alam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 * 🚀 I'm currently working on building scalable web applications and exploring advanced AI features.
 * 🧠 I'm learning more about full-stack development, cloud architectures, and system design.
 * 💬 Ask me about **JavaScript, Python, React, and Frontend Architectures**.
-* 📫 How to reach me: **your-email@example.com** *(update this)*
+* 📫 How to reach me: **armaan.n.alam@gmail.com** *(update this)*
 * ⚡ Fun fact: I love automating repetitive tasks to make life easier!
 
 ## 🛠️ Tech Stack
