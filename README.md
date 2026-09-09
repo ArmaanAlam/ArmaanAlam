@@ -91,7 +91,4 @@
   <i>Let's connect and build something amazing together!</i>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
-</div>
 
