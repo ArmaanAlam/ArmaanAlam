@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Armaan!&fontSize=50&fontAlignY=35&desc=Passionate%20Developer%20&descAlignY=55&descAlign=50" />
 </div>
 
-<h1 align="center">Welcome to my Digital Portfolio! ✨</h1>
+<h1 align="center">Welcome to my Digital Portfolio! </h1>
 
 <p align="center">
   <em>Crafting intuitive digital experiences and solving complex problems with code.</em>
@@ -12,17 +12,19 @@
   <a href="https://linkedin.com/in/armaan-alam">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="YOUR_LEETCODE_PROFILE_URL">
-    <img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://leetcode.com/u/alamarmaan/)" alt="LeetCode">
+
+  <a href="https://leetcode.com/u/alamarmaan/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white](https://armaan-portfolio-two.vercel.app/)" alt="Portfolio">
+
+  <a href="https://armaan-portfolio-two.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
 ---
 
 ## 👨‍💻 About Me
