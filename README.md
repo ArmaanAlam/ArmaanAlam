@@ -25,7 +25,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
----
 
 ## 👨‍💻 About Me
 
