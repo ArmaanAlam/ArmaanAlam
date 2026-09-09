@@ -9,8 +9,18 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/armaan-alam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/armaan-alam">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="YOUR_LEETCODE_PROFILE_URL">
+    <img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://leetcode.com/u/alamarmaan/)" alt="LeetCode">
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white](https://armaan-portfolio-two.vercel.app/)" alt="Portfolio">
+  </a>
 </p>
 
 ---
