@@ -72,17 +72,6 @@
 
 
 
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **🛒 Voice Command Shopping** | A shopping list application controlled entirely by voice commands with smart suggestions. | Vanilla JS, HTML, Tailwind CSS | [View Repo](https://github.com/ArmaanAlam/voice-commond-shopping) |
-| **🚀 Portfolio V2** | A highly interactive and animated personal portfolio. | Next.js, Framer Motion | [View Demo](#) |
-| **🧠 AI Assistant** | A custom implementation of an AI agent for daily tasks. | Python, OpenAI API | [View Repo](#) |
-
-<br />
 
 ---
 
