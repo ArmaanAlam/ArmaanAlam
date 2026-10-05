@@ -14,34 +14,34 @@
 ### `<span style="color:#4ade80">❯</span> Tech Stack`
 
 **Languages:**<br/>
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" style="margin-right: 10px;" />
 
-<br/>**Frameworks & Libraries:**<br/>
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=keras&logoColor=D00000" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=chainlink&logoColor=2a52ba" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=numpy&logoColor=013243" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=pandas&logoColor=150458" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=pydantic&logoColor=e92063" />
+<br/><br/>**Frameworks & Libraries:**<br/>
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/keras/D00000" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/chainlink/2a52ba" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/pandas/150458" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/pydantic/e92063" width="40" height="40" style="margin-right: 10px;" />
 
-<br/>**Databases:**<br/>
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791" />
+<br/><br/>**Databases:**<br/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/postgresql/336791" width="40" height="40" style="margin-right: 10px;" />
 
-<br/>**Tools & Platforms:**<br/>
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=git&logoColor=F05033" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626" />
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />
+<br/><br/>**Tools & Platforms:**<br/>
+<img src="https://cdn.simpleicons.org/git/F05033" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/github/white" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/visualstudiocode/0078D4" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="40" height="40" style="margin-right: 10px;" />
 
 
 <br/>
