@@ -9,8 +9,6 @@
   <a href="https://armaan-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<br/>
-
 ### <span style="color:#4ade80">❯</span> Tech Stack
 
 **Languages:**<br/>
@@ -19,32 +17,33 @@
 <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" style="margin-right: 10px;" />
 
-<br/><br/>**Frameworks & Libraries:**<br/>
+<br/>**Frameworks & Libraries:**<br/>
 <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/keras/D00000" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/flask/white" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/chainlink/2a52ba" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/pandas/150458" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/pydantic/e92063" width="40" height="40" style="margin-right: 10px;" />
 
-<br/><br/>**Databases:**<br/>
+<br/>**Databases:**<br/>
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/postgresql/336791" width="40" height="40" style="margin-right: 10px;" />
 
-<br/><br/>**Tools & Platforms:**<br/>
+<br/>**Tools & Platforms:**<br/>
 <img src="https://cdn.simpleicons.org/git/F05033" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/visualstudiocode/0078D4" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/jupyter/F37626" width="40" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="40" height="40" style="margin-right: 10px;" />
-
-
-<br/>
 
 ### <span style="color:#4ade80">❯</span> Featured Projects
 <!-- START_SECTION:featured_projects -->
@@ -69,8 +68,6 @@
 </table>
 <!-- END_SECTION:featured_projects -->
 
-<br/>
-
 ### <span style="color:#4ade80">❯</span> GitHub Stats
 <table width="100%">
   <tr>
@@ -82,8 +79,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
 
 ### <span style="color:#4ade80">❯</span> Pinned Repositories
 <table width="100%">
