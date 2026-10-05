@@ -11,7 +11,7 @@
 
 <br/>
 
-### `<span style="color:#4ade80">❯</span> Tech Stack`
+### <span style="color:#4ade80">❯</span> Tech Stack
 
 **Languages:**<br/>
 <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" height="40" style="margin-right: 10px;" />
@@ -46,7 +46,7 @@
 
 <br/>
 
-### `<span style="color:#4ade80">❯</span> Featured Projects`
+### <span style="color:#4ade80">❯</span> Featured Projects
 <!-- START_SECTION:featured_projects -->
 <table width="100%">
   <tr>
@@ -71,7 +71,7 @@
 
 <br/>
 
-### `<span style="color:#4ade80">❯</span> GitHub Stats`
+### <span style="color:#4ade80">❯</span> GitHub Stats
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -85,7 +85,7 @@
 
 <br/>
 
-### `<span style="color:#4ade80">❯</span> Pinned Repositories`
+### <span style="color:#4ade80">❯</span> Pinned Repositories
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
