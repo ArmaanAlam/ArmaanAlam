@@ -54,7 +54,7 @@
 </table>
 <!-- END_SECTION:featured_projects -->
 
-### <span style="color:#4ade80">❯</span> GitHub Stats
+### <span style="color:#4ade80">❯</span> Stats
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -62,6 +62,14 @@
     </td>
     <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanAlam&layout=compact&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://leetcard.jacoblin.cool/alamarmaan?theme=dark&font=baloo&ext=activity" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://gfgstatscard.vercel.app/armaanalam?theme=dark" width="100%" />
     </td>
   </tr>
 </table>
