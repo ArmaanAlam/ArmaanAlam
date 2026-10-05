@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/armaan-alam"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"></a>
   <a href="mailto:armaan.n.alam@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"></a>
-  <a href="https://leetcode.com/u/alamarmaan/"><img src="https://skillicons.dev/icons?i=leetcode&theme=dark" alt="LeetCode"></a>
+  <a href="https://leetcode.com/u/alamarmaan/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" alt="LeetCode"></a>
   <a href="https://armaan-portfolio-two.vercel.app/"><img src="https://skillicons.dev/icons?i=chrome&theme=dark" alt="Portfolio"></a>
 </p>
 
@@ -15,10 +15,10 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js&theme=dark" />
 
 <br/>**Frameworks & Libraries:**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,fastapi,flask,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,fastapi,flask,react&theme=dark" /> <img src="https://cdn.simpleicons.org/langchain/7FC8FF" width="48" height="48" style="margin-left: 5px; margin-right: 5px;" /> <img src="https://cdn.simpleicons.org/langgraph/7FC8FF" width="48" height="48" style="margin-right: 5px;" />
 
 <br/>**Databases:**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark" />
 
 <br/>**Tools & Platforms:**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode&theme=dark" />
