@@ -28,19 +28,26 @@
 <!-- START_SECTION:featured_projects -->
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/ArmaanAlam/Modular-Retrieval-Augmented-Generation-Framework-for-Document-Intelligence">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmaanAlam&repo=Modular-Retrieval-Augmented-Generation-Framework-for-Document-Intelligence&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" width="100%" alt="Modular RAG" />
+    <td width="50%" valign="top">
+      <a href="https://github.com/ArmaanAlam/CodeBase-Assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmaanAlam&repo=CodeBase-Assistant&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" width="100%" alt="CodeBase-Assistant" />
       </a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://github.com/ArmaanAlam/Transformer-from-Scratch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmaanAlam&repo=Transformer-from-Scratch&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" width="100%" alt="Transformer from Scratch" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmaanAlam&repo=Transformer-from-Scratch&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" width="100%" alt="Transformer-from-Scratch" />
       </a>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/ArmaanAlam/Fine-Tuning-Transformer-Model">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmaanAlam&repo=Fine-Tuning-Transformer-Model&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" width="100%" alt="Fine Tuning LLM" />
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ArmaanAlam/NLP-to-SQL-Language-Conversion">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmaanAlam&repo=NLP-to-SQL-Language-Conversion&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" width="100%" alt="NLP-to-SQL-Language-Conversion" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ArmaanAlam/Production-RAG">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmaanAlam&repo=Production-RAG&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" width="100%" alt="Production-RAG" />
       </a>
     </td>
   </tr>
