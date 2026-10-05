@@ -13,10 +13,10 @@
 ### <span style="color:#4ade80">❯</span> Tech Stack
 
 **Languages:**<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,sqlite&theme=dark" />
 
 <br/>**Frameworks & Libraries:**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,fastapi,flask&theme=dark" /> <img src="https://cdn.simpleicons.org/langchain/7FC8FF" width="48" height="48" style="margin-left: 5px; margin-right: 5px;" /> <img src="https://cdn.simpleicons.org/langgraph/7FC8FF" width="48" height="48" style="margin-right: 5px;" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,fastapi,flask&theme=dark" /> <img src="https://cdn.simpleicons.org/langchain/7FC8FF" width="48" height="48" style="margin-left: 5px; margin-right: 5px;" /> <img src="https://cdn.simpleicons.org/langgraph/7FC8FF" width="48" height="48" style="margin-right: 5px;" /> <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" style="margin-right: 5px;" /> <img src="https://cdn.simpleicons.org/pydantic/E92063" width="48" height="48" style="margin-right: 5px;" />
 
 <br/>**Databases:**<br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
