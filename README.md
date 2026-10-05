@@ -19,23 +19,37 @@
 <br/>
 
 ### `<span style="color:#4ade80">?</span> Featured Projects`
-<div align="left">
-  <a href="https://github.com/ArmaanAlam/Modular-Retrieval-Augmented-Generation-Framework-for-Document-Intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmaanAlam&repo=Modular-Retrieval-Augmented-Generation-Framework-for-Document-Intelligence&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" alt="Modular RAG" />
-  </a>
-  <a href="https://github.com/ArmaanAlam/Transformer-from-Scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmaanAlam&repo=Transformer-from-Scratch&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" alt="Transformer from Scratch" />
-  </a>
-  <a href="https://github.com/ArmaanAlam/Fine-Tuning-Transformer-Model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmaanAlam&repo=Fine-Tuning-Transformer-Model&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" alt="Fine Tuning LLM" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/ArmaanAlam/Modular-Retrieval-Augmented-Generation-Framework-for-Document-Intelligence">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmaanAlam&repo=Modular-Retrieval-Augmented-Generation-Framework-for-Document-Intelligence&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" width="100%" alt="Modular RAG" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/ArmaanAlam/Transformer-from-Scratch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmaanAlam&repo=Transformer-from-Scratch&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" width="100%" alt="Transformer from Scratch" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/ArmaanAlam/Fine-Tuning-Transformer-Model">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmaanAlam&repo=Fine-Tuning-Transformer-Model&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" width="100%" alt="Fine Tuning LLM" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ### `<span style="color:#4ade80">?</span> GitHub Stats`
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmaanAlam&show_icons=true&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanAlam&layout=compact&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" height="150" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=ArmaanAlam&show_icons=true&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanAlam&layout=compact&title_color=4ade80&text_color=c9d1d9&icon_color=4ade80&bg_color=0d1117&border_color=30363d" width="100%" />
+    </td>
+  </tr>
+</table>
 
