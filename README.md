@@ -69,7 +69,7 @@
       <img src="https://leetcard.jacoblin.cool/alamarmaan?theme=dark&font=baloo&ext=activity" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://gfgstatscard.vercel.app/armaanalam?theme=dark" width="100%" />
+      <img src="./gfg-stats.svg" width="100%" />
     </td>
   </tr>
 </table>
