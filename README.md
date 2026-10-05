@@ -2,6 +2,7 @@
   <img src="./header.svg" alt="Armaan Naushad Alam" />
 </div>
 
+<h3 align="center">Let's Connect</h3>
 <p align="center">
   <a href="https://linkedin.com/in/armaan-alam"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"></a>
   <a href="mailto:armaan.n.alam@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"></a>
