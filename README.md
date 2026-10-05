@@ -19,6 +19,7 @@
 <br/>
 
 ### `<span style="color:#4ade80">❯</span> Featured Projects`
+<!-- START_SECTION:featured_projects -->
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
@@ -38,6 +39,7 @@
     </td>
   </tr>
 </table>
+<!-- END_SECTION:featured_projects -->
 
 <br/>
 
