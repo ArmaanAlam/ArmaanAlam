@@ -3,10 +3,10 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/armaan-alam"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4ade80" alt="LinkedIn"></a>
-  <a href="mailto:armaan.n.alam@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c9d1d9" alt="Email"></a>
-  <a href="https://leetcode.com/u/alamarmaan/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
-  <a href="https://armaan-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=c9d1d9" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/armaan-alam"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:armaan.n.alam@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/u/alamarmaan/"><img src="https://img.shields.io/badge/LEETCODE-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
+  <a href="https://armaan-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <br/>
