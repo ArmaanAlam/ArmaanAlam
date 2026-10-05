@@ -12,9 +12,52 @@
 <br/>
 
 ### `<span style="color:#4ade80">❯</span> Tech Stack`
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,mysql,tensorflow,pytorch,sklearn,fastapi,numpy,pandas,git,github,docker,vscode,html,css,js,ts,react,nextjs&theme=dark" />
-</p>
+
+**Languages:**<br/>
+<img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC" />
+<img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=00599C" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+
+<br/>**AI/ML & GenAI:**<br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/Deep%20Learning-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/Neural%20Networks-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/Generative%20AI-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square" />
+
+<br/>**Frameworks & Libraries:**<br/>
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/Keras-0d1117?style=flat-square&logo=keras&logoColor=D00000" />
+<img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=2a52ba" />
+<img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243" />
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/Pydantic-0d1117?style=flat-square&logo=pydantic&logoColor=e92063" />
+<img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square" />
+
+<br/>**Databases & Vector Stores:**<br/>
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Postgres-0d1117?style=flat-square&logo=postgresql&logoColor=336791" />
+<img src="https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/Pinecone-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS-0d1117?style=flat-square" />
+
+<br/>**Tools & Platforms:**<br/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05033" />
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=0078D4" />
+<img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626" />
+<img src="https://img.shields.io/badge/Google%20Colab-0d1117?style=flat-square&logo=googlecolab&logoColor=F9AB00" />
+
+<br/>**Core Concepts:**<br/>
+<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/OOP-0d1117?style=flat-square" />
 
 <br/>
 
