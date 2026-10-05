@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="350" viewBox="0 0 850 350" fill="none">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&amp;display=swap');
+    text { font-family: 'Fira Code', monospace; }
+    .title { font-size: 32px; font-weight: 700; fill: #fff; }
+    .prompt { fill: #4ade80; }
+    .subtitle { font-size: 18px; font-weight: 600; fill: #4ade80; }
+    .num { font-size: 14px; font-weight: 700; fill: #4ade80; }
+    .nav { font-size: 14px; font-weight: 400; fill: #8b949e; }
+    .text { font-size: 14px; font-weight: 400; fill: #c9d1d9; }
+    .quote-box { stroke: #22c55e; stroke-width: 1.5; fill: rgba(34, 197, 94, 0.05); rx: 6; }
+    .quote-text { font-size: 14px; font-weight: 400; fill: #4ade80; }
+    .line-dash { stroke: #30363d; stroke-width: 1.5; stroke-dasharray: 4 4; }
+    .line-green { stroke: #4ade80; stroke-width: 2; stroke-dasharray: 6 4; }
+  </style>
+  <rect width="850" height="350" fill="#0d1117" rx="8"/>
+  
+  <line x1="15" y1="30" x2="15" y2="320" class="line-green" />
+  
+  <text x="40" y="60" class="title"><tspan class="prompt">&gt;_ </tspan>ARMAAN NAUSHAD ALAM</text>
+  <text x="70" y="95" class="subtitle">AI Engineer | Software Developer</text>
+
+  <text x="30" y="145"><tspan class="num">01</tspan> <tspan class="nav">About Me</tspan></text>
+  <text x="30" y="175"><tspan class="num">02</tspan> <tspan class="nav">Tech Stack</tspan></text>
+  <text x="30" y="205"><tspan class="num">03</tspan> <tspan class="nav">Featured Projects</tspan></text>
+  <text x="30" y="235"><tspan class="num">04</tspan> <tspan class="nav">GitHub Stats</tspan></text>
+  <text x="30" y="265"><tspan class="num">05</tspan> <tspan class="nav">Currently Learning</tspan></text>
+  <text x="30" y="295"><tspan class="num">06</tspan> <tspan class="nav">Fun Facts</tspan></text>
+  <text x="30" y="325"><tspan class="num">07</tspan> <tspan class="nav">Lets Connect</tspan></text>
+
+  <line x1="230" y1="120" x2="230" y2="330" class="line-dash" />
+
+  <text x="260" y="145" class="text">Hi! I'm Armaan, an AI Engineer and Software Developer</text>
+  <text x="260" y="167" class="text">based in India. I build intelligent systems using GenAI,</text>
+  <text x="260" y="189" class="text">RAG, and scalable backend technologies. I enjoy solving</text>
+  <text x="260" y="211" class="text">complex problems, working with data, and turning ideas</text>
+  <text x="260" y="233" class="text">into real-world applications.</text>
+
+  <rect x="260" y="255" width="550" height="65" class="quote-box" />
+  <text x="285" y="283" class="quote-text">" Break problems into small conceptual pieces</text>
+  <text x="295" y="305" class="quote-text">and try to fit them. "</text>
+</svg>
