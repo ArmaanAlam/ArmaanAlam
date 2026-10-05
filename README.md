@@ -19,13 +19,7 @@
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
 
-<br/>**AI/ML & GenAI:**<br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/Deep%20Learning-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/Neural%20Networks-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/Generative%20AI-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/LLMs-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square" />
+
 
 <br/>**Frameworks & Libraries:**<br/>
 <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
