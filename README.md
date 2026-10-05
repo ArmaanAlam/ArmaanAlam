@@ -39,12 +39,9 @@
 <img src="https://img.shields.io/badge/Pydantic-0d1117?style=flat-square&logo=pydantic&logoColor=e92063" />
 <img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square" />
 
-<br/>**Databases & Vector Stores:**<br/>
+<br/>**Databases:**<br/>
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/Postgres-0d1117?style=flat-square&logo=postgresql&logoColor=336791" />
-<img src="https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/Pinecone-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/FAISS-0d1117?style=flat-square" />
 
 <br/>**Tools & Platforms:**<br/>
 <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05033" />
@@ -55,9 +52,6 @@
 <img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626" />
 <img src="https://img.shields.io/badge/Google%20Colab-0d1117?style=flat-square&logo=googlecolab&logoColor=F9AB00" />
 
-<br/>**Core Concepts:**<br/>
-<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/OOP-0d1117?style=flat-square" />
 
 <br/>
 
