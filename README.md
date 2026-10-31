@@ -120,11 +120,11 @@ profile:
   <tr>
     <td width="50%" valign="top">
       <!-- GitHub Stats (GitHub Dark Theme + Contribution Green) -->
-      <img src="https://github-readme-stats.vercel.app/api?username=ArmaanAlam&show_icons=true&title_color=39d353&text_color=c9d1d9&icon_color=39d353&bg_color=0d1117&border_color=30363d" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArmaanAlam&show_icons=true&title_color=39d353&text_color=c9d1d9&icon_color=39d353&bg_color=0d1117&border_color=30363d" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" valign="top">
       <!-- GitHub Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanAlam&layout=compact&title_color=39d353&text_color=c9d1d9&icon_color=39d353&bg_color=0d1117&border_color=30363d" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArmaanAlam&layout=compact&title_color=39d353&text_color=c9d1d9&icon_color=39d353&bg_color=0d1117&border_color=30363d" width="100%" alt="Top Languages" />
     </td>
   </tr>
   <tr>
@@ -138,11 +138,6 @@ profile:
     </td>
   </tr>
 </table>
-
-<!-- Full-width GitHub Contribution Activity Curve -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArmaanAlam&bg_color=0d1117&color=39d353&line=39d353&point=26a641&area=true&area_color=0e4429&hide_border=false&border_color=30363d&radius=8" width="100%" alt="Contribution Graph" />
-</div>
 
 ---
 
