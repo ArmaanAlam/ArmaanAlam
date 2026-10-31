@@ -30,35 +30,27 @@
 <!-- START_SECTION:featured_projects -->
 <table width="100%">
   <tr>
-    <!-- Project 1: NLP-to-SQL -->
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/ArmaanAlam/NLP-to-SQL-Language-Conversion">NLP-to-SQL-Language-Conversion</a></h3>
-      <p><b>Natural Language to Deterministic SQL Engine</b><br/>
-      Translates natural language into dialect-aware SQL with zero-shot schema linking, AST-level query validation, and safe read-only execution sandboxes.</p>
-      <code>Python</code> • <code>LangChain</code> • <code>PostgreSQL</code> • <code>FastAPI</code>
+      <a href="https://github.com/ArmaanAlam/NLP-to-SQL-Language-Conversion">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ArmaanAlam&repo=NLP-to-SQL-Language-Conversion&title_color=39d353&text_color=c9d1d9&icon_color=39d353&bg_color=0d1117&border_color=30363d" width="100%" alt="NLP-to-SQL-Language-Conversion" />
+      </a>
     </td>
-    <!-- Project 2: Production-RAG -->
     <td width="50%" valign="top">
-      <h3>🔄 <a href="https://github.com/ArmaanAlam/Production-RAG">Production-RAG</a></h3>
-      <p><b>Enterprise Retrieval-Augmented Generation</b><br/>
-      Production RAG architecture with hybrid vector + BM25 keyword search, reciprocal rank fusion (RRF), cross-encoder re-ranking, and low-latency chunk retrieval.</p>
-      <code>RAG</code> • <code>VectorDB</code> • <code>LangGraph</code> • <code>Pydantic</code>
+      <a href="https://github.com/ArmaanAlam/Production-RAG">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ArmaanAlam&repo=Production-RAG&title_color=39d353&text_color=c9d1d9&icon_color=39d353&bg_color=0d1117&border_color=30363d" width="100%" alt="Production-RAG" />
+      </a>
     </td>
   </tr>
   <tr>
-    <!-- Project 3: CodeBase-Assistant -->
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/ArmaanAlam/CodeBase-Assistant">CodeBase-Assistant</a></h3>
-      <p><b>Intelligent Codebase Query & Refactor Agent</b><br/>
-      Navigates large code repositories, analyzes dependencies and call graphs, and answers architecture and debugging questions with full AST context.</p>
-      <code>LLMs</code> • <code>AST Parsing</code> • <code>Embeddings</code> • <code>Python</code>
+      <a href="https://github.com/ArmaanAlam/CodeBase-Assistant">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ArmaanAlam&repo=CodeBase-Assistant&title_color=39d353&text_color=c9d1d9&icon_color=39d353&bg_color=0d1117&border_color=30363d" width="100%" alt="CodeBase-Assistant" />
+      </a>
     </td>
-    <!-- Project 4: Transformer-from-Scratch -->
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/ArmaanAlam/Transformer-from-Scratch">Transformer-from-Scratch</a></h3>
-      <p><b>Pure PyTorch Transformer Implementation</b><br/>
-      Ground-up implementation of the seminal <i>"Attention Is All You Need"</i> paper, featuring multi-head self-attention, positional encoding, and complete training loops.</p>
-      <code>PyTorch</code> • <code>Deep Learning</code> • <code>Attention</code>
+      <a href="https://github.com/ArmaanAlam/Transformer-from-Scratch">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ArmaanAlam&repo=Transformer-from-Scratch&title_color=39d353&text_color=c9d1d9&icon_color=39d353&bg_color=0d1117&border_color=30363d" width="100%" alt="Transformer-from-Scratch" />
+      </a>
     </td>
   </tr>
 </table>
