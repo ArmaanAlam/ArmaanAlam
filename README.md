@@ -26,22 +26,6 @@
 
 ---
 
-### <span style="color:#39d353">❯</span> About Me
-
-```yaml
-profile:
-  name: Armaan Naushad Alam
-  role: AI & Backend Engineer
-  core_stack: [Python, FastAPI, PyTorch, LangChain, PostgreSQL, Redis, Docker]
-  focus_areas:
-    - End-to-End LLM Pipelines, RAG Architectures & Natural Language Interfaces (Text-to-SQL)
-    - Deep Learning Fundamentals (Transformers from scratch & Attention mechanisms)
-    - High-throughput asynchronous backend APIs & database query optimization
-  palette: ["#0d1117", "#161b22", "#21262d", "#30363d", "#39d353"]
-```
-
----
-
 ### <span style="color:#39d353">❯</span> Featured Projects
 <!-- START_SECTION:featured_projects -->
 <table width="100%">
