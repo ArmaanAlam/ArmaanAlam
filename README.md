@@ -43,30 +43,6 @@ profile:
 ---
 
 ### <span style="color:#39d353">❯</span> Featured Projects
-
-<div align="center">
-
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  💬 Natural Language Query:                                            │
-│  "Retrieve top 5 active users with total orders placed in Q3 2024"      │
-└───────────────────────────────────┬────────────────────────────────────┘
-                                    │
-       [ 🧠 Schema Linker + AST Validator + LLM Generation Pipeline ]
-                                    ▼
-┌────────────────────────────────────────────────────────────────────────┐
-│  ⚡ Synthesized & Safe SQL (PostgreSQL / MySQL / SQLite):               │
-│                                                                        │
-│  SELECT u.username, COUNT(o.id) AS total_orders,                       │
-│         SUM(o.amount) AS total_spent                                   │
-│  FROM users u JOIN orders o ON u.id = o.user_id                        │
-│  WHERE o.created_at BETWEEN '2024-07-01' AND '2024-09-30'              │
-│  GROUP BY u.username ORDER BY total_orders DESC LIMIT 5;               │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
 <!-- START_SECTION:featured_projects -->
 <table width="100%">
   <tr>
